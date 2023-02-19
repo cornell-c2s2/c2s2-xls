@@ -1,0 +1,4 @@
+module(
+    name = "c2s2_xls",
+    version = "0.1",
+)
